@@ -27,7 +27,9 @@ Totalmente responsivo e desenvolvido em React
 
 👥 Integrantes e papéis
 Nome	Papel no projeto
-[Seu Nome]	Desenvolvimento front-end, criação do banco de perguntas e lógica do quiz
+[GUILHERME]	Desenvolvimento front-end, criação do banco de perguntas e lógica do quiz
+[MAIKE LOHAN]. Desenvolvimento da ideia de funcionalidades.
+[THIAGO DE OLIVEIRA]. Desenvolvimento de estilos.
 
 Observação: Atualize a tabela acima com os nomes reais dos integrantes, se houver mais pessoas envolvidas no projeto.
 
@@ -50,11 +52,11 @@ npm install
 
 Inicie o projeto:
 
-npm start
+npm run dev
 
 
 O projeto estará disponível em:
-http://localhost:3000
+http://localhost:...
 
 🧠 Tecnologias utilizadas
 
