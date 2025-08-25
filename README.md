@@ -30,6 +30,7 @@ Nome	Papel no projeto
 [GUILHERME]	Desenvolvimento front-end, criação do banco de perguntas e lógica do quiz
 [MAIKE LOHAN]. Desenvolvimento da ideia de funcionalidades.
 [THIAGO DE OLIVEIRA]. Desenvolvimento de estilos.
+[TALYS]. UX/UI
 
 Observação: Atualize a tabela acima com os nomes reais dos integrantes, se houver mais pessoas envolvidas no projeto.
 
